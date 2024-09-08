@@ -1,0 +1,6 @@
+../Core/Src/ina219.c:15:6:INA219_Calibrate	32	static
+../Core/Src/ina219.c:39:7:INA219_ReadBusVoltage	40	static
+../Core/Src/ina219.c:57:7:INA219_ReadCurrent	32	static
+../Core/Src/ina219.c:75:7:INA219_ReadPower	16	static
+../Core/Src/ina219.c:90:7:INA219_ReadShuntVoltage	32	static
+../Core/Src/ina219.c:107:6:INA219_Init	8	static

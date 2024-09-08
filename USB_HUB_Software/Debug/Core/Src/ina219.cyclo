@@ -1,0 +1,6 @@
+../Core/Src/ina219.c:15:6:INA219_Calibrate	1
+../Core/Src/ina219.c:39:7:INA219_ReadBusVoltage	1
+../Core/Src/ina219.c:57:7:INA219_ReadCurrent	1
+../Core/Src/ina219.c:75:7:INA219_ReadPower	1
+../Core/Src/ina219.c:90:7:INA219_ReadShuntVoltage	1
+../Core/Src/ina219.c:107:6:INA219_Init	1

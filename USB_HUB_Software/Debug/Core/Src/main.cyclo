@@ -1,0 +1,9 @@
+../Core/Src/main.c:146:6:SystemClock_Config	3
+../Core/Src/main.c:428:6:Main_Screen	1
+../Core/Src/main.c:192:6:Countdown	4
+../Core/Src/main.c:252:6:Timer_Screen	2
+../Core/Src/main.c:292:6:Power_Screen	6
+../Core/Src/main.c:377:6:Selection_Screen	6
+../Core/Src/main.c:89:5:main	1
+../Core/Src/main.c:448:6:HAL_TIM_IC_CaptureCallback	5
+../Core/Src/main.c:497:6:Error_Handler	1
