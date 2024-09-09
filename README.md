@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **USB_HUB** is a custom-designed device that expands a single USB-C port into four USB-A ports. It is built using the **USB2514B-I/M2** controller, designed for **USB 2.0** communication. This USB hub is enhanced with additional features like power consumption monitoring for each of the four USB ports, displayed on a **0.96-inch IPS screen**. The device can also function as a timer, ideal for activities such as focused work sessions (e.g., a 45-minute concentration timer) or as a countdown for random tasks like boiling eggs :).
+The **USB_HUB** is a custom-designed device that expands a single USB-C port into four USB-A ports. It is built using the **USB2514B-I/M2** controller, designed for **USB 2.0** communication. This USB hub is enhanced with additional features like power consumption monitoring for each of the four USB ports, displayed on a **0.96-inch IPS screen**. The device can also function as a timer, ideal for activities such as focused work sessions (e.g., a 45-minute concentration timer) or as a countdown for random tasks like boiling eggs :). Navigating through different options is done by using the knob located on the top of the case.
 The hub's functionality is managed by an **STM32F103C8T6** microcontroller. 
 This README outlines the hardware, software, and overall functionality of the project.
 
